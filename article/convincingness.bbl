@@ -1,0 +1,170 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{bhatnagar_dalite:_2016}
+Bhatnagar, S., Lasry, N., Desmarais, M., Charles, E.: {DALITE}: {Asynchronous}
+  {Peer} {Instruction} for {MOOCs}. In: European {Conference} on {Technology}
+  {Enhanced} {Learning}. pp. 505--508. Springer (2016)
+
+\bibitem{univeristy_of_british_columbia_ubc/ubcpi_2019}
+Univeristy~of British~Columbia, T..L.T.: ubc/ubcpi (Aug 2019),
+  \url{https://github.com/ubc/ubcpi}, original-date: 2015-02-17T21:37:02Z
+
+\bibitem{cambre_juxtapeer:_2018}
+Cambre, J., Klemmer, S., Kulkarni, C.: Juxtapeer: {Comparative} {Peer} {Review}
+  {Yields} {Higher} {Quality} {Feedback} and {Promotes} {Deeper} {Reflection}.
+  In: Proceedings of the 2018 {CHI} {Conference} on {Human} {Factors} in
+  {Computing} {Systems} - {CHI} '18. pp. 1--13. ACM Press, Montreal QC, Canada
+  (2018). \doi{10.1145/3173574.3173868}
+
+\bibitem{charles_harnessing_2019}
+Charles, E.S., Lasry, N., Bhatnagar, S., Adams, R., Lenton, K., Brouillette,
+  Y., Dugdale, M., Whittaker, C., Jackson, P.: Harnessing peer instruction in-
+  and out- of class with {myDALITE}. In: Fifteenth {Conference} on {Education}
+  and {Training} in {Optics} and {Photonics}: {ETOP} 2019. p. 11143\_89.
+  Optical Society of America (2019),
+  \url{http://www.osapublishing.org/abstract.cfm?URI=ETOP-2019-11143_89}
+
+\bibitem{chen_pairwise_2013}
+Chen, X., Bennett, P.N., Collins-Thompson, K., Horvitz, E.: Pairwise ranking
+  aggregation in a crowdsourced setting. In: Proceedings of the sixth {ACM}
+  international conference on {Web} search and data mining. pp. 193--202 (2013)
+
+\bibitem{crouch_peer_2001}
+Crouch, C.H., Mazur, E.: Peer instruction: {Ten} years of experience and
+  results. American Journal of Physics  \textbf{69}(9),  970--977 (2001)
+
+\bibitem{denny_effect_2013}
+Denny, P.: The {Effect} of {Virtual} {Achievements} on {Student} {Engagement}.
+  In: Proceedings of the {SIGCHI} {Conference} on {Human} {Factors} in
+  {Computing} {Systems}. pp. 763--772. {CHI} '13, ACM, New York, NY, USA
+  (2013). \doi{10.1145/2470654.2470763},
+  \url{http://doi.acm.org/10.1145/2470654.2470763}, event-place: Paris, France
+
+\bibitem{denny_peerwise:_2008}
+Denny, P., Hamer, J., Luxton-Reilly, A., Purchase, H.: {PeerWise}: {Students}
+  {Sharing} {Their} {Multiple} {Choice} {Questions}. In: Proceedings of the
+  {Fourth} {International} {Workshop} on {Computing} {Education} {Research}.
+  pp. 51--58. {ICER} '08, ACM, New York, NY, USA (2008).
+  \doi{10.1145/1404520.1404526},
+  \url{http://doi.acm.org/10.1145/1404520.1404526}, event-place: Sydney,
+  Australia
+
+\bibitem{devlin_bert_2018}
+Devlin, J., Chang, M.W., Lee, K., Toutanova, K.: Bert: {Pre}-training of deep
+  bidirectional transformers for language understanding. arXiv preprint
+  arXiv:1810.04805  (2018)
+
+\bibitem{gagnon_filtering_2019}
+Gagnon, V., Labrie, A., Desmarais, M., Bhatnagar, S.: Filtering non-relevant
+  short answers in peer learning applications. In: Proc. {Conference} on
+  {Educational} {Data} {Mining} ({EDM}) (2019)
+
+\bibitem{gleize_are_2019}
+Gleize, M., Shnarch, E., Choshen, L., Dankin, L., Moshkowich, G., Aharonov, R.,
+  Slonim, N.: Are you convinced? choosing the more convincing evidence with a
+  {Siamese} network. arXiv preprint arXiv:1907.08971  (2019),
+  \url{https://www.aclweb.org/anthology/P19-1093/}
+
+\bibitem{habernal_which_2016}
+Habernal, I., Gurevych, I.: Which argument is more convincing? {Analyzing} and
+  predicting convincingness of {Web} arguments using bidirectional {LSTM}. In:
+  Proceedings of the 54th {Annual} {Meeting} of the {Association} for
+  {Computational} {Linguistics} ({Volume} 1: {Long} {Papers}). pp. 1589--1599.
+  Association for Computational Linguistics, Berlin, Germany (Aug 2016).
+  \doi{10.18653/v1/P16-1150}, \url{https://www.aclweb.org/anthology/P16-1150}
+
+\bibitem{herbrich_support_1999}
+Herbrich, R., Graepel, T., Obermayer, K.: Support vector learning for ordinal
+  regression  (1999), publisher: IET
+
+\bibitem{joachims_optimizing_2002}
+Joachims, T.: Optimizing search engines using clickthrough data. In:
+  Proceedings of the eighth {ACM} {SIGKDD} international conference on
+  {Knowledge} discovery and data mining. pp. 133--142 (2002)
+
+\bibitem{khosravi_ripple_2019}
+Khosravi, H., Kitto, K., Williams, J.J.: Ripple: {A} crowdsourced adaptive
+  platform for recommendation of learning activities. arXiv preprint
+  arXiv:1910.05522  (2019)
+
+\bibitem{lippi_argumentation_2016}
+Lippi, M., Torroni, P.: Argumentation mining: {State} of the art and emerging
+  trends. ACM Transactions on Internet Technology (TOIT)  \textbf{16}(2), ~10
+  (2016)
+
+\bibitem{louis_what_2013}
+Louis, A., Nenkova, A.: What {Makes} {Writing} {Great}? {First} {Experiments}
+  on {Article} {Quality} {Prediction} in the {Science} {Journalism} {Domain}.
+  Transactions of the Association for Computational Linguistics  \textbf{1},
+  341--352 (2013)
+
+\bibitem{moens_automatic_2007}
+Moens, M.F., Boiy, E., Palau, R.M., Reed, C.: Automatic detection of arguments
+  in legal texts. In: Proceedings of the 11th international conference on
+  {Artificial} intelligence and law. pp. 225--230 (2007)
+
+\bibitem{nguyen_computational_2015}
+Nguyen, D., Doğruöz, A.S., Rosé, C.P., de~Jong, F.: Computational
+  {Sociolinguistics}: {A} {Survey}. arXiv preprint arXiv:1508.07544  (2015)
+
+\bibitem{pennington_glove:_2014}
+Pennington, J., Socher, R., Manning, C.D.: Glove: {Global} {Vectors} for {Word}
+  {Representation}. In: {EMNLP}. vol.~14, pp. 1532--1543 (2014)
+
+\bibitem{persing_end--end_2016}
+Persing, I., Ng, V.: End-to-{End} {Argumentation} {Mining} in {Student}
+  {Essays}. In: {HLT}-{NAACL}. pp. 1384--1394 (2016)
+
+\bibitem{pollitt_method_2012}
+Pollitt, A.: The method of {Adaptive} {Comparative} {Judgement}. Assessment in
+  Education: Principles, Policy \& Practice  \textbf{19}(3),  281--300 (2012).
+  \doi{10.1080/0969594X.2012.665354},
+  \url{https://doi.org/10.1080/0969594X.2012.665354}, publisher: Routledge
+  \_eprint: https://doi.org/10.1080/0969594X.2012.665354
+
+\bibitem{potter_compair:_2017}
+Potter, T., Englund, L., Charbonneau, J., MacLean, M.T., Newell, J., Roll, I.,
+  {others}: {ComPAIR}: {A} new online tool using adaptive comparative judgement
+  to support learning with peer feedback. Teaching \& Learning Inquiry
+  \textbf{5}(2),  89--113 (2017)
+
+\bibitem{simpson_finding_2018}
+Simpson, E., Gurevych, I.: Finding {Convincing} {Arguments} {Using} {Scalable}
+  {Bayesian} {Preference} {Learning}. Transactions of the Association for
+  Computational Linguistics  \textbf{6},  357--371 (2018),
+  \url{https://www.aclweb.org/anthology/Q18-1026}
+
+\bibitem{tan_winning_2016}
+Tan, C., Niculae, V., Danescu-Niculescu-Mizil, C., Lee, L.: Winning
+  {Arguments}: {Interaction} {Dynamics} and {Persuasion} {Strategies} in
+  {Good}-faith {Online} {Discussions}. arXiv:1602.01103 [physics] pp. 613--624
+  (2016). \doi{10.1145/2872427.2883081}, \url{http://arxiv.org/abs/1602.01103},
+  arXiv: 1602.01103
+
+\bibitem{toledo_automatic_2019}
+Toledo, A., Gretz, S., Cohen-Karlik, E., Friedman, R., Venezian, E., Lahav, D.,
+  Jacovi, M., Aharonov, R., Slonim, N.: Automatic {Argument} {Quality}
+  {Assessment}-{New} {Datasets} and {Methods}. In: Proceedings of the 2019
+  {Conference} on {Empirical} {Methods} in {Natural} {Language} {Processing}
+  and the 9th {International} {Joint} {Conference} on {Natural} {Language}
+  {Processing} ({EMNLP}-{IJCNLP}). pp. 5629--5639 (2019),
+  \url{https://www.aclweb.org/anthology/D19-1564.pdf}
+
+\bibitem{weir_learnersourcing_2015}
+Weir, S., Kim, J., Gajos, K.Z., Miller, R.C.: Learnersourcing subgoal labels
+  for how-to videos. In: Proceedings of the 18th {ACM} {Conference} on
+  {Computer} {Supported} {Cooperative} {Work} \& {Social} {Computing}. pp.
+  405--416. ACM (2015)
+
+\bibitem{williams_axis:_2016}
+Williams, J.J., Kim, J., Rafferty, A., Maldonado, S., Gajos, K.Z., Lasecki,
+  W.S., Heffernan, N.: {AXIS}: {Generating} {Explanations} at {Scale} with
+  {Learnersourcing} and {Machine} {Learning}. In: Proceedings of the {Third}
+  (2016) {ACM} {Conference} on {Learning} @ {Scale} - {L}@{S} '16. pp.
+  379--388. ACM Press, Edinburgh, Scotland, UK (2016).
+  \doi{10.1145/2876034.2876042}
+
+\end{thebibliography}

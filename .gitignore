@@ -1,0 +1,13 @@
+*.aux
+*.log
+*.synctex.gz
+*.out
+*.blg
+*.cut
+samplepaper.*
+*.bib
+*.ipynb_checkpoints/
+*.ipynb
+code/__pycache__/
+tmp/
+*.zip
